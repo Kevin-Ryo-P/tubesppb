@@ -1,0 +1,19 @@
+.categories-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.categories{
+    width: 150px;
+}
+
+.categories-list h1{
+    color: black;
+    font-size: 48px;
+}
